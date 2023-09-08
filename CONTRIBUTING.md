@@ -14,3 +14,4 @@
 - [x] Fina
 - [x] dika
 - [x] yayang
+- [x] elly
